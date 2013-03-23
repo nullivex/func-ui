@@ -2,7 +2,7 @@
 	 "name":				"openlss/func-ui"
 	,"homepage":			"http://openlss.org"
 	,"description":			"UI helpers for OpenLSS interfaces"
-	,"license":				"LGPLv2"
+	,"license":				"LGPL-3.0+"
 	,"type":				"library"
 	,"keywords": [
 		 "redirect"
