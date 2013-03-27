@@ -6,8 +6,6 @@ User Inteface (UI) helper functions for OpenLSS web frameworks
 Usage
 ----
 ```php
-ld('func/ui');
-
 //save an alert to be displayed
 alert('The process failed',false);
 
